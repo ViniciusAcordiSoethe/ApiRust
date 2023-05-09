@@ -1,13 +1,13 @@
-#API Rest com Actix e Rust
+# API Rest com Actix e Rust
 
 Este é um projeto de API Rest desenvolvido em Rust com o framework Actix. É a primeira vez que utilizo a combinação dessas tecnologias e estou bastante satisfeito com os resultados obtidos.
 
-###Requisitos
+### Requisitos
 
     Rust
     Cargo
 
-###Como executar
+### Como executar
 
 Para executar a aplicação, siga os passos abaixo:
 
